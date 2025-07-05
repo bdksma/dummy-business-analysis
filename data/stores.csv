@@ -1,0 +1,101 @@
+row,store_id,city,name,region
+1,S001,Polo,TirtaMart Polo,Bali
+2,S002,Chengnan,TirtaMart Chengnan,Jawa Tengah
+3,S003,Visby,TirtaMart Visby,Sumatera Utara
+4,S004,Kuvshinovo,TirtaMart Kuvshinovo,Jawa Barat
+5,S005,General Luna,TirtaMart General Luna,Sulawesi Selatan
+6,S006,As Sab‘ Biyār,TirtaMart As Sab‘ Biyār,Bali
+7,S007,Bailieborough,TirtaMart Bailieborough,Sumatera Utara
+8,S008,Bang Rakam,TirtaMart Bang Rakam,Kalimantan Timur
+9,S009,Stari Grad,TirtaMart Stari Grad,Bali
+10,S010,Yarumela,TirtaMart Yarumela,DKI Jakarta
+11,S011,Suozhen,TirtaMart Suozhen,Banten
+12,S012,Kujung,TirtaMart Kujung,Bali
+13,S013,Gora,TirtaMart Gora,Bali
+14,S014,Shuhe,TirtaMart Shuhe,Sumatera Utara
+15,S015,Al Qanāţir al Khayrīyah,TirtaMart Al Qanāţir al Khayrīyah,Jawa Barat
+16,S016,Turka,TirtaMart Turka,Kalimantan Timur
+17,S017,Hyattsville,TirtaMart Hyattsville,Jawa Timur
+18,S018,Khiv,TirtaMart Khiv,Jawa Timur
+19,S019,Sanom,TirtaMart Sanom,Jawa Barat
+20,S020,Shijing,TirtaMart Shijing,Sumatera Barat
+21,S021,Bantawora,TirtaMart Bantawora,Bali
+22,S022,Putukrejo,TirtaMart Putukrejo,Kalimantan Timur
+23,S023,Marco de Canaveses,TirtaMart Marco de Canaveses,Sumatera Barat
+24,S024,Peoria,TirtaMart Peoria,Sulawesi Selatan
+25,S025,Suay,TirtaMart Suay,Sulawesi Selatan
+26,S026,Tobruk,TirtaMart Tobruk,DKI Jakarta
+27,S027,Karanggintung,TirtaMart Karanggintung,Sumatera Barat
+28,S028,Mauloo,TirtaMart Mauloo,Jawa Tengah
+29,S029,Lhoknga,TirtaMart Lhoknga,Jawa Tengah
+30,S030,Lanlongkou,TirtaMart Lanlongkou,DKI Jakarta
+31,S031,Tempuran,TirtaMart Tempuran,Jawa Tengah
+32,S032,Ljukovo,TirtaMart Ljukovo,Jawa Barat
+33,S033,Porirua,TirtaMart Porirua,Sulawesi Selatan
+34,S034,Citeureup,TirtaMart Citeureup,Sumatera Barat
+35,S035,Duntou,TirtaMart Duntou,Jawa Tengah
+36,S036,Ayotupas,TirtaMart Ayotupas,Sumatera Barat
+37,S037,Färjestaden,TirtaMart Färjestaden,DKI Jakarta
+38,S038,Maebashi-shi,TirtaMart Maebashi-shi,Jawa Timur
+39,S039,Doblas,TirtaMart Doblas,Sumatera Utara
+40,S040,Potok Złoty,TirtaMart Potok Złoty,Jawa Tengah
+41,S041,Baiqi,TirtaMart Baiqi,Jawa Timur
+42,S042,Haodian,TirtaMart Haodian,Jawa Tengah
+43,S043,Porto Ferreira,TirtaMart Porto Ferreira,Bali
+44,S044,Somié,TirtaMart Somié,Sumatera Barat
+45,S045,Sidorejo,TirtaMart Sidorejo,DKI Jakarta
+46,S046,San Andres,TirtaMart San Andres,Jawa Timur
+47,S047,Gigante,TirtaMart Gigante,Jawa Timur
+48,S048,Alcanena,TirtaMart Alcanena,Kalimantan Timur
+49,S049,Bunirasa,TirtaMart Bunirasa,Sumatera Barat
+50,S050,El Coco,TirtaMart El Coco,Jawa Tengah
+51,S051,Boca de Parita,TirtaMart Boca de Parita,Bali
+52,S052,Sokolov,TirtaMart Sokolov,Banten
+53,S053,Mpanda,TirtaMart Mpanda,Banten
+54,S054,Murmuiža,TirtaMart Murmuiža,Sumatera Utara
+55,S055,Denver,TirtaMart Denver,Banten
+56,S056,Jardim do Seridó,TirtaMart Jardim do Seridó,Banten
+57,S057,Kozlovice,TirtaMart Kozlovice,Sumatera Barat
+58,S058,Laxey,TirtaMart Laxey,Jawa Barat
+59,S059,Hellevoetsluis,TirtaMart Hellevoetsluis,Bali
+60,S060,Koygorodok,TirtaMart Koygorodok,Jawa Barat
+61,S061,Banī Suwayf,TirtaMart Banī Suwayf,Kalimantan Timur
+62,S062,Changzhi,TirtaMart Changzhi,Sumatera Barat
+63,S063,Andir,TirtaMart Andir,Bali
+64,S064,Sanjiang,TirtaMart Sanjiang,Sumatera Barat
+65,S065,Bayramaly,TirtaMart Bayramaly,Jawa Barat
+66,S066,Akim Oda,TirtaMart Akim Oda,Bali
+67,S067,Afareaitu,TirtaMart Afareaitu,Jawa Tengah
+68,S068,Paço,TirtaMart Paço,Bali
+69,S069,Aliwal North,TirtaMart Aliwal North,Bali
+70,S070,Poli,TirtaMart Poli,Sulawesi Selatan
+71,S071,Amarillo,TirtaMart Amarillo,Jawa Barat
+72,S072,Warwick,TirtaMart Warwick,Kalimantan Timur
+73,S073,Mossel Bay,TirtaMart Mossel Bay,Jawa Timur
+74,S074,Skaramangás,TirtaMart Skaramangás,DKI Jakarta
+75,S075,Barbacena,TirtaMart Barbacena,DKI Jakarta
+76,S076,Maodian,TirtaMart Maodian,Jawa Barat
+77,S077,Kryvyy Rih,TirtaMart Kryvyy Rih,Jawa Barat
+78,S078,Fuhai,TirtaMart Fuhai,Jawa Timur
+79,S079,Papetoai,TirtaMart Papetoai,DKI Jakarta
+80,S080,San Jacinto,TirtaMart San Jacinto,DKI Jakarta
+81,S081,Klumbu,TirtaMart Klumbu,DKI Jakarta
+82,S082,Chishmy,TirtaMart Chishmy,Sumatera Utara
+83,S083,Reshetnikovo,TirtaMart Reshetnikovo,Sumatera Barat
+84,S084,Montalegre,TirtaMart Montalegre,Banten
+85,S085,Guandu,TirtaMart Guandu,Jawa Tengah
+86,S086,Fraile Pintado,TirtaMart Fraile Pintado,DKI Jakarta
+87,S087,Zmiennica,TirtaMart Zmiennica,Jawa Tengah
+88,S088,La Broquerie,TirtaMart La Broquerie,Jawa Barat
+89,S089,Surenavan,TirtaMart Surenavan,Jawa Timur
+90,S090,Gapluk,TirtaMart Gapluk,Bali
+91,S091,Pubu,TirtaMart Pubu,Jawa Tengah
+92,S092,La Guadalupe,TirtaMart La Guadalupe,DKI Jakarta
+93,S093,Haymā’,TirtaMart Haymā’,Kalimantan Timur
+94,S094,Bantacan,TirtaMart Bantacan,Sulawesi Selatan
+95,S095,Dois Córregos,TirtaMart Dois Córregos,Banten
+96,S096,Hengjie,TirtaMart Hengjie,Sumatera Utara
+97,S097,Carvalheira,TirtaMart Carvalheira,Jawa Timur
+98,S098,Khvānsār,TirtaMart Khvānsār,DKI Jakarta
+99,S099,Alvesta,TirtaMart Alvesta,Kalimantan Timur
+100,S100,Dongli,TirtaMart Dongli,Sulawesi Selatan
