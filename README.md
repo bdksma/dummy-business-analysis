@@ -1,7 +1,7 @@
 ````markdown
 # TirtaMart Retail Data Analysis Project
 
-This project simulates a retail business analysis for a fictional retail chain, **"TirtaMart"**, to showcase skills in data modeling, SQL analytics, and dashboard visualization using PostgreSQL and Power BI.
+This project simulates a retail business analysis for a fictional retail chain, "TirtaMart", to showcase skills in data modeling, SQL analytics, and dashboard visualization using PostgreSQL and Power BI.
 
 ---
 
