@@ -1,0 +1,85 @@
+"category","product_id","total_qty"
+Accessories,P010,203
+Art Supplies,P272,78
+Audio,P404,179
+Automotive,P357,75
+Beauty,P376,157
+Bicycles,P441,31
+Books,P120,25
+Clothing,P118,98
+Clothing - Accessories,P267,78
+Clothing - Bottoms,P195,105
+Clothing - Dresses,P055,47
+Clothing - Footwear,P223,42
+Clothing - Jumpsuits,P173,28
+Clothing - Loungewear,P212,67
+Clothing - Outerwear,P006,60
+Clothing - Pants,P474,37
+Clothing - Shoes,P178,50
+Clothing - Sweaters,P459,66
+Clothing - Tops,P266,106
+Electronics,P477,180
+Fitness,P332,167
+Food,P410,92
+Food - Bakery,P428,92
+Food - Baking,P166,103
+Food - Baking Goods,P235,51
+Food - Beverages,P040,166
+Food - Breakfast,P325,113
+Food - Canned Goods,P244,103
+Food - Canned Soups,P273,28
+Food - Cereal,P011,20
+Food - Cheese,P289,89
+Food - Condiments,P306,127
+Food - Confectionery,P492,130
+Food - Cooking Oil,P160,66
+Food - Dairy Alternatives,P060,118
+Food - Desserts,P001,55
+Food - Dips,P044,38
+Food - Dressing,P465,14
+Food - Freezer,P286,52
+Food - Frozen,P256,105
+Food - Frozen Desserts,P472,142
+Food - Frozen Foods,P126,166
+Food - Frozen Meals,P170,133
+Food - Grains,P388,136
+Food - Grocery,P366,88
+Food - Household,P219,52
+Food - Meat,P372,108
+Food - Meat & Seafood,P493,32
+Food - Meats,P431,70
+Food - Nuts,P371,65
+Food - Oils,P199,134
+Food - Pasta,P215,65
+Food - Prepared Foods,P066,36
+Food - Prepared Meals,P365,65
+Food - Produce,P362,115
+Food - Protein,P381,119
+Food - Salads,P149,78
+Food - Sauces,P190,159
+Food - Seafood,P434,89
+Food - Seasonings,P263,226
+Food - Sides,P158,76
+Food - Snacks,P305,137
+Food - Spices,P255,85
+Food - Spreads,P364,45
+Food - Vegetable,P401,131
+Food - Vegetables,P458,122
+Footwear,P264,17
+Gaming,P300,175
+Garden,P014,188
+Health,P218,123
+Home,P049,114
+Home Appliances,P022,96
+Kitchen,P246,220
+Music,P360,78
+Office,P277,212
+Outdoor,P041,108
+Pets,P224,154
+Photography,P408,53
+Sports,P034,95
+Storage,P445,39
+Tools,P128,100
+Toys,P339,117
+Travel,P341,118
+Wearable Tech,P309,28
